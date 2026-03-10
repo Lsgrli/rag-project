@@ -1,1 +1,4 @@
-# rag-semester-project
+# RAG Project
+
+
+How to run 
